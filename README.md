@@ -15,7 +15,7 @@
 
 ### Social Garbage:
 <p align="left">
-  <a href="https://www.youtube.com/c/cametized" target="_blank">
+  <a href="https://www.youtube.com/@Cametized" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://discord.gg/834Xp5fJXP" target="_blank">
