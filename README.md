@@ -1,3 +1,5 @@
+> **Tip:** On GitHub, to open links in a new tab, use <kbd>Ctrl</kbd>+Click (Windows/Linux) or <kbd>Cmd</kbd>+Click (Mac).
+
 <h1 align="center">Hey, I'm Cameron</h1>
 
 <h3 align="center">
