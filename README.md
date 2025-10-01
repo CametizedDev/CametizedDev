@@ -38,10 +38,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="luau.org" target="_blank" rel="noreferrer">
+  <a href="https://luau.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="luau" width="40" height="40"/>
   </a>
-	<a href="code.visualstudio.com" target="_blank" rel="noreferrer">
+	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/>
   </a>
 </p>
